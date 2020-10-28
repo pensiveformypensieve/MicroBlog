@@ -1,0 +1,42 @@
+brühe
+QTest worker2020-10-28 19:47:16 DEBUG MicroBlog:14:truncate - in truncate method
+VTest worker2020-10-28 19:47:16 DEBUG MicroBlog:18:truncate - in truncate method : 12
+?????
+QTest worker2020-10-28 19:47:16 DEBUG MicroBlog:14:truncate - in truncate method
+VTest worker2020-10-28 19:47:16 DEBUG MicroBlog:18:truncate - in truncate method : 12
+a=?r²
+QTest worker2020-10-28 19:47:16 DEBUG MicroBlog:14:truncate - in truncate method
+VTest worker2020-10-28 19:47:16 DEBUG MicroBlog:18:truncate - in truncate method : 12
+QTest worker2020-10-28 19:47:16 DEBUG MicroBlog:14:truncate - in truncate method
+UTest worker2020-10-28 19:47:16 DEBUG MicroBlog:18:truncate - in truncate method : 6
+?????
+QTest worker2020-10-28 19:47:16 DEBUG MicroBlog:14:truncate - in truncate method
+VTest worker2020-10-28 19:47:16 DEBUG MicroBlog:18:truncate - in truncate method : 30
+BTest worker2020-10-28 19:47:16 DEBUG MicroBlog:34:truncate - ???
+QTest worker2020-10-28 19:47:16 DEBUG MicroBlog:14:truncate - in truncate method
+VTest worker2020-10-28 19:47:16 DEBUG MicroBlog:18:truncate - in truncate method : 24
+DTest worker2020-10-28 19:47:16 DEBUG MicroBlog:34:truncate - Hello
+Bärte
+QTest worker2020-10-28 19:47:16 DEBUG MicroBlog:14:truncate - in truncate method
+VTest worker2020-10-28 19:47:16 DEBUG MicroBlog:18:truncate - in truncate method : 22
+ETest worker2020-10-28 19:47:16 DEBUG MicroBlog:34:truncate - Bärte
+	?????
+	QTest worker2020-10-28 19:47:16 DEBUG MicroBlog:14:truncate - in truncate method
+	VTest worker2020-10-28 19:47:16 DEBUG MicroBlog:18:truncate - in truncate method : 12
+
+?
+
+QTest worker2020-10-28 19:47:16 DEBUG MicroBlog:14:truncate - in truncate method
+
+UTest worker2020-10-28 19:47:16 DEBUG MicroBlog:18:truncate - in truncate method : 6
+?????
+QTest worker2020-10-28 19:47:16 DEBUG MicroBlog:14:truncate - in truncate method
+VTest worker2020-10-28 19:47:16 DEBUG MicroBlog:18:truncate - in truncate method : 24
+DTest worker2020-10-28 19:47:16 DEBUG MicroBlog:34:truncate - ?????
+Fly ?
+QTest worker2020-10-28 19:47:16 DEBUG MicroBlog:14:truncate - in truncate method
+VTest worker2020-10-28 19:47:16 DEBUG MicroBlog:18:truncate - in truncate method : 14
+?????
+QTest worker2020-10-28 19:47:16 DEBUG MicroBlog:14:truncate - in truncate method
+VTest worker2020-10-28 19:47:16 DEBUG MicroBlog:18:truncate - in truncate method : 28
+BTest worker2020-10-28 19:47:16 DEBUG MicroBlog:34:truncate - ???
